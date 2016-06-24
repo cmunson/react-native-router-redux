@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "react-native-navbar": "git+https://github.com/react-native-fellowship/react-native-navbar.git#master",
-    "react-native-tabs": "github:aksonov/react-native-tabs"
+    "react-native-tabs": "git+https://github.com/cmunson/react-native-tabs.git#master"
   },
   "description": "A routing library for React Native and Redux",
   "devDependencies": {},
