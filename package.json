@@ -1,20 +1,71 @@
 {
-  "name": "react-native-router-redux",
-  "version": "0.2.2",
+  "_args": [
+    [
+      "react-native-router-redux@^0.2.2",
+      "/Applications/MAMP/htdocs/AwesomeProject"
+    ]
+  ],
+  "_from": "react-native-router-redux@>=0.2.2 <0.3.0",
+  "_id": "react-native-router-redux@0.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-router-redux",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "email": "team@getqwikly.com",
+    "name": "qwikly"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-router-redux",
+    "raw": "react-native-router-redux@^0.2.2",
+    "rawSpec": "^0.2.2",
+    "scope": null,
+    "spec": ">=0.2.2 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-router-redux/-/react-native-router-redux-0.2.2.tgz",
+  "_shasum": "eb572fd9f7879a9bba018d482e5b0f2c3c0d19d8",
+  "_shrinkwrap": null,
+  "_spec": "react-native-router-redux@^0.2.2",
+  "_where": "/Applications/MAMP/htdocs/AwesomeProject",
+  "author": {
+    "name": "Team Qwikly"
+  },
+  "dependencies": {
+    "react-native-navbar": "git+https://github.com/react-native-fellowship/react-native-navbar.git#master",
+    "react-native-tabs": "github:malkomalko/react-native-tabs"
+  },
   "description": "A routing library for React Native and Redux",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "eb572fd9f7879a9bba018d482e5b0f2c3c0d19d8",
+    "tarball": "https://registry.npmjs.org/react-native-router-redux/-/react-native-router-redux-0.2.2.tgz"
+  },
+  "gitHead": "141707909b797a88625215bcaf8375f36cb21162",
+  "keywords": [
+    "react-native",
+    "redux",
+    "routing"
+  ],
+  "license": "MIT",
   "main": "index.js",
+  "maintainers": [
+    {
+      "name": "qwikly",
+      "email": "team@getqwikly.com"
+    }
+  ],
+  "name": "react-native-router-redux",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "routing",
-    "redux",
-    "react-native"
-  ],
-  "author": "Team Qwikly",
-  "license": "MIT",
-  "dependencies": {
-    "react-native-navbar": "malkomalko/react-native-navbar",
-    "react-native-tabs": "malkomalko/react-native-tabs"
-  }
+  "version": "0.2.2"
 }
